@@ -6,13 +6,13 @@
 <a href="https://twitter.com/henrikskog01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="henrikskog01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/henrik-skog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrik-skog" height="30" width="40" /></a>
 </p>
-
+<!-- 
 
 ## Profile counter
 
 
 ![counter](https://enfuel38hketwwr.m.pipedream.net)
-
+ -->
 <!--
 **henrikskog/henrikskog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
